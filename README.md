@@ -12,5 +12,4 @@
 - 🎯 &nbsp;I have the "never-finishing" issue when working on side-projects
 - 🏳️ &nbsp;In the Angular vs React vs Svelte vs Vue framework war I support JavaScript
 - 🤮 &nbsp;I hate having to clean up the rest of the food in a kitchen sink 
-- 🌎 &nbsp;Dear North Americans fellows: stop calling yourselves Americans, thanks.
 - 🗣️ &nbsp;I speak many languages and also JavaScript.
